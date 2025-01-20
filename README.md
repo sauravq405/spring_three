@@ -6,7 +6,7 @@ request body:
 {
 "name": "Saurav Sengupta",
 "department": "CE0",
-"salary": 7000000000.00
+"salary": 700000000.00
 }
 
 ```
